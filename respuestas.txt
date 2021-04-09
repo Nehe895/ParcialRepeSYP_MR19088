@@ -6,3 +6,5 @@
 de un organismo social para cumplir con sus objetivos y planes, 
 conforma un sistema operativo que interrelaciona los recursos de 
 operación con las tareas necesarias para alcanzar los objetivos.
+
+4.Recursos(insumos) -> organismos como proceso de conversión-> (productos) beneficios
